@@ -1,2 +1,2 @@
 # tRecyclerview
-方便使用的recyclerview
+方便使用的recyclerview的adapter适配器
