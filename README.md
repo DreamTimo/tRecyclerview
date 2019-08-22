@@ -2,7 +2,7 @@
 方便使用的recyclerview的adapter适配器
 
 android studio中引用
-implementation 'com.github.DreamTimo:tRecyclerview:v1.0.0'
+implementation 'com.github.DreamTimo:tRecyclerview:v1.0.1'
 
 本项目中目前依赖:
 implementation 'com.android.support:support-v4:28.0.0'
